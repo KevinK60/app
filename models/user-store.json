@@ -34,6 +34,13 @@
       "email": "kevin9000m@gmail.com",
       "password": "Bookgamer99",
       "id": "810f60ec-49ac-4ee3-b67a-3e307ca42d93"
+    },
+    {
+      "firstName": "Joe",
+      "lastName": "Mama",
+      "email": "joemama@gmail.com",
+      "password": "Joemama69",
+      "id": "3385e8be-bba7-4ce1-95e1-5dd8612a9fe8"
     }
   ]
 }
