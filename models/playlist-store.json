@@ -1,0 +1,32 @@
+{
+  "playlistCollection": [
+    {
+      "id": "1b98fdb5-6ac9-40b8-9f62-c925c45209b2",
+      "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "title": "Test playlist",
+      "picture": "http://res.cloudinary.com/week10lab/image/upload/v1679912433/ytq9xymcv8jf6ourggdx.jpg",
+      "songs": []
+    },
+    {
+      "id": "f57ac9c0-fcb8-4d1c-aacd-83fbddb3c165",
+      "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "title": "Test 2",
+      "picture": "http://res.cloudinary.com/week10lab/image/upload/v1679913164/fefvlelibav5piw1bwwx.jpg",
+      "songs": []
+    },
+    {
+      "id": "1b7d9720-921a-4c83-bf5f-65cc954b79ca",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "Test playlist",
+      "picture": "http://res.cloudinary.com/week10lab/image/upload/v1680010153/ozad7pllqsbjwwmiz4c4.jpg",
+      "songs": []
+    },
+    {
+      "id": "1fbd3959-47fd-4583-a91d-757d5da458c0",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "Test 2",
+      "picture": "http://res.cloudinary.com/week10lab/image/upload/v1680012055/hksashbs7m4phmxjythd.jpg",
+      "songs": []
+    }
+  ]
+}
