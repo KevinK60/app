@@ -27,6 +27,21 @@
       "title": "Test 2",
       "picture": "http://res.cloudinary.com/week10lab/image/upload/v1680012055/hksashbs7m4phmxjythd.jpg",
       "songs": []
+    },
+    {
+      "id": "28326ac8-4ca0-44de-92ff-4463654a9d08",
+      "userid": "3385e8be-bba7-4ce1-95e1-5dd8612a9fe8",
+      "title": "d",
+      "picture": "http://res.cloudinary.com/dfhf0wdia/image/upload/v1682501652/nj2iempgox3uxe6ujmqp.png",
+      "songs": [
+        {
+          "id": "6890c303-4353-4853-b55e-6671c118166e",
+          "title": "1",
+          "artist": "1",
+          "genre": "1",
+          "duration": "1"
+        }
+      ]
     }
   ]
 }
