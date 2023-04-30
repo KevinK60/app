@@ -24,7 +24,10 @@ const playlistStore = {
   getAllPlaylists() {
     return this.store.findAll(this.collection);
   },
-  
+  getShortestPlaylist(){
+
+  },
+ 
   getPlaylist(id) {
     return this.store.findOneBy(this.collection, (collection => collection.id === id));
   },
